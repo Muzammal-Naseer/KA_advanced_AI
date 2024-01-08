@@ -6,9 +6,12 @@ Link:
 https://naeemullah-khan.github.io/KAAAI24B1/instructions.html
 
 Schedule:
-9:15AM - 10:15AM => Theoretical Exam
-10:15AM - 11:00AM => Break
-11:00AM - 4:00PM => Practical Exam
+
+- 9:15AM - 10:15AM => Theoretical Exam
+
+- 10:15AM - 11:00AM => Break
+
+- 11:00AM - 4:00PM => Practical Exam
 
 ## Course Outline:
 
