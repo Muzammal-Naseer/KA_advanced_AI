@@ -1,5 +1,8 @@
 # KAUST Academy Advanced AI
 
+## EXAMINATION LINK
+(Click Here)[https://naeemullah-khan.github.io/KAAAI24B1/instructions.html]
+
 ## Course Outline:
 
 - CNN
