@@ -1,7 +1,7 @@
 # KAUST Academy Advanced AI
 
 ## EXAMINATION LINK
-(Click Here)[https://naeemullah-khan.github.io/KAAAI24B1/instructions.html]
+https://naeemullah-khan.github.io/KAAAI24B1/instructions.html
 
 ## Course Outline:
 
